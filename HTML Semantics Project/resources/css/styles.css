@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url(../font/Roboto/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url(../font/Roboto/Roboto-Bold.ttf);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Bold';
+    text-align: center;
+}
+
+p {
+    font-family: 'Roboto';
+    text-align: center;
+}
+
+table {
+    font-family: 'Roboto';
+    border-style: solid;
+    width: 550px;
+    margin: 0 auto;
+}
+
+thead {
+    color:whitesmoke;
+    background-color: darkslategrey;
+}
+
+td {
+    border-style: groove;
+    text-align: center;
+    height: 100px;
+}
+
+#code {
+    background-color: rgb(187, 224, 187);
+    margin: 10px;
+    padding: 2px;
+
+}
