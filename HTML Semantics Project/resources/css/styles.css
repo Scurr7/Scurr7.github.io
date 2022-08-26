@@ -1,15 +1,8 @@
-@font-face {
+* {
     font-family: 'Roboto';
-    src: url(../font/Roboto/Roboto-Regular.ttf);
 }
 
-@font-face {
-    font-family: 'Roboto Bold';
-    src: url(../font/Roboto/Roboto-Bold.ttf);
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Bold';
+h1, h2 {
     text-align: center;
 }
 
@@ -21,7 +14,7 @@ p {
 table {
     font-family: 'Roboto';
     border-style: solid;
-    width: 550px;
+    width: 600px;
     margin: 0 auto;
 }
 
